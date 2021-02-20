@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './index.css';
 
 import thumb1 from './images/lake-inniscarra-thumb.jpg';
 import trainer1 from './images/lake-inniscarra-trainer.jpg';
