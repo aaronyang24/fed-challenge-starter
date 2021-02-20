@@ -55,4 +55,18 @@ body {
   margin-left: 1em;
   margin-top: .5em;
   width: 14em;
+  height: 2em;
+}
+
+.view-details {
+  visibility: hidden;
+  margin-bottom: 7em;
+  margin-top: 0;
+  margin-left: 1.2em;
+  font-size: 1em;
+}
+
+.card:hover .view-details {
+  visibility: visible;
+  color: rgb(42, 140, 206)
 }

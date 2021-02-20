@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import thumb1 from './images/lake-inniscarra-thumb.jpg';
 import trainer1 from './images/lake-inniscarra-trainer.jpg';
@@ -79,6 +79,7 @@ function App() {
                 className='trainer'
               />
             </div>
+            <h2 className='view-details'>VIEW DETAILS</h2>
           </div>
         );
       })}
