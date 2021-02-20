@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import thumb1 from './images/lake-inniscarra-thumb.jpg';
 import trainer1 from './images/lake-inniscarra-trainer.jpg';
